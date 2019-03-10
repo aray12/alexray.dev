@@ -15,7 +15,6 @@ To be clear, this solution works. I wouldn't call it perfect, but it works. That
 This is Part 1 and is going to provide a general overview initial planning I've gone through prior to starting the project. There won't actually be any coding. 
 
 - Littlewoods, Part 1: Planning
-- [Littlewoods, Part 2: Real-Time API](/littlewoods-part-2-real-time-api)
 - To be continued
 
 ---
